@@ -19,7 +19,8 @@
 ![Alt Image 2](https://github.com/IgorAntropov/OnlineStoreDB/raw/dev/media/TableProduct.png)
 
 * "ID" - уникальный идентификатор заказа;
-* "NAME" - наименование товара;
+* "MAKE" - марка автомибиля;
+* "MODEL" - модель автомобиля;
 * "PRICE" - цена.
 
 ### Описание таблицы "StatusOrder/Статус заказа":
