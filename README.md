@@ -85,7 +85,7 @@
 
 ![Alt Image 14](https://github.com/IgorAntropov/OnlineStoreDB/raw/dev/media/SumProduct.png)
 
-![Alt Image 15](https://github.com/IgorAntropov/OnlineStoreDB/raw/dev/media/SumProduct.png1.png.png)
+![Alt Image 15](https://github.com/IgorAntropov/OnlineStoreDB/raw/dev/media/SumProduct.png1.png.png.png)
 
 ## 4 Заключение.
 
